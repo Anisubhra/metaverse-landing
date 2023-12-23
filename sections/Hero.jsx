@@ -3,7 +3,7 @@
 import styles from "../styles";
 import { motion } from 'framer-motion';
 import { fadeIn, slideIn, staggerContainer, textVariant } from "../utils/motion";
-import { cn } from "../utils/utils";
+import { cn } from "../lib/utils";
 import { socialsExtra } from "../constants";
 
 

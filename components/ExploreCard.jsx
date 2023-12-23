@@ -1,7 +1,8 @@
 'use client';
+
 import { motion } from 'framer-motion';
 import { fadeIn } from '../utils/motion';
-import { cn } from '../utils/utils';
+import { cn } from '../lib/utils';
 import styles from '../styles';
 
 const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (

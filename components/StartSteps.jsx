@@ -1,5 +1,5 @@
 import styles from "../styles";
-import { cn } from "../utils/utils";
+import { cn } from "../lib/utils";
 
 const StartSteps = ({ number, text }) => (
   <div className={cn(styles.flexCenter, 'flex-row')}>

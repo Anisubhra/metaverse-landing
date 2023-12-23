@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { cn } from '../utils/utils';
+import { cn } from '../lib/utils';
 import styles from '../styles';
 import { fadeIn, planetVariants, staggerContainer } from '../utils/motion';
 import { StartSteps, TitleText, TypingText } from '../components';

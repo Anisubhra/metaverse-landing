@@ -3,7 +3,6 @@
 import styles from "../styles";
 import { motion } from 'framer-motion';
 import { staggerContainer } from "../utils/motion";
-import { cn } from "../utils/utils";
 import { ExploreCard, TitleText, TypingText } from "../components";
 import { exploreWorlds } from "../constants";
 import { useState } from "react";

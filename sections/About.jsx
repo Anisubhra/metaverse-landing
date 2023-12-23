@@ -1,8 +1,9 @@
 'use client';
+
 import styles from "../styles";
 import { motion } from 'framer-motion';
 import { fadeIn, staggerContainer } from "../utils/motion";
-import { cn } from "../utils/utils";
+import { cn } from "../lib/utils";
 import { TypingText } from "../components";
 
 const About = () => (

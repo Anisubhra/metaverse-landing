@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { cn } from '../utils/utils';
+import { cn } from '../lib/utils';
 import { fadeIn, staggerContainer, zoomIn } from '../utils/motion';
 import styles from '../styles';
 
