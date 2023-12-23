@@ -86,3 +86,22 @@ export const socials = [
     url: '/facebook.svg',
   },
 ];
+
+export const socialsExtra =[
+  {
+    name: 'reddit',
+    url: '/fontisto_reddit.svg',
+  },
+  {
+    name: 'discord',
+    url: '/akar-icons_discord-fill.svg',
+  },
+  {
+    name: 'twitter',
+    url: '/twitter.svg',
+  },
+  {
+    name: 'instagram',
+    url: '/instagram.svg',
+  },
+]

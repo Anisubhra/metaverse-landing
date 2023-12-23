@@ -24,13 +24,50 @@ const World = () => (
         <img src="/map.png" alt="map" className='w-full h-full object-cover' />
 
         <div className='absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'>
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#5d6680] opacity-75 top-0 left-0"></span>
           <img src='people-01.png' alt="people" className='w-full h-full' />
         </div>
         <div className='absolute top-20 left-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'>
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#5d6680] opacity-75 top-0 left-0"></span>
           <img src='people-02.png' alt="people" className='w-full h-full' />
         </div>
         <div className='absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'>
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#5d6680] opacity-75 top-0 left-0"></span>
           <img src='people-03.png' alt="people" className='w-full h-full' />
+        </div>
+
+        <div className='sm:block hidden absolute bottom-[184px] left-[250px] p-[8px] w-[196px] h-[150px] rounded-[12%] bg-[#5d6680] hover:animate-pulse'>
+          <div className='relative'>
+            <img src='9Z_2104.w030.n002.11A.p15 2.png' alt="world" className='w-full h-full rounded-[10%]' />
+            <div className='absolute bottom-[15px] left-[15px] flex flex-col gap-[8px]'>
+              <div className='flex flex-row items-center gap-[8px]'>
+                <div className='relative flex flex-row item-center'>
+                  <img src='people-01.png' alt="people" className='w-[24px] h-[24px]' />
+                  <img src='people-02.png' alt="people" className='w-[24px] h-[24px]' />
+                  <img src='people-03.png' alt="people" className='w-[24px] h-[24px]' />
+                </div>
+                <p className='text-white text-[12px] font-normal'>+ 264 has joined</p>
+              </div>
+              <h4 className='text-white text-[16px] font-bold'>The Upside Down</h4>
+            </div>
+          </div>
+        </div>
+
+        <div className='sm:block hidden absolute top-[40px] right-[250px] p-[8px] w-[196px] h-[150px] rounded-[12%] bg-[#5d6680] hover:animate-pulse'>
+          <div className='relative'>
+            <img src='1624 2.png' alt="world" className='w-full h-full rounded-[10%]' />
+            <div className='absolute bottom-[15px] left-[15px] flex flex-col gap-[8px]'>
+              <div className='flex flex-row items-center gap-[8px]'>
+                <div className='relative flex flex-row item-center'>
+                  <img src='people-01.png' alt="people" className='w-[24px] h-[24px]' />
+                  <img src='people-02.png' alt="people" className='w-[24px] h-[24px]' />
+                  <img src='people-03.png' alt="people" className='w-[24px] h-[24px]' />
+                </div>
+                <p className='text-white text-[12px] font-normal'>+ 264 has joined</p>
+              </div>
+              <h4 className='text-white text-[16px] font-bold'>Hawkins Labs</h4>
+            </div>
+          </div>
         </div>
       </motion.div>
     </motion.div>
