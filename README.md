@@ -2,6 +2,10 @@
 
 Welcome to **HorizonX** — a sleek, modern metaverse landing page built with **Next.js**, **Tailwind CSS**, and **Framer Motion** for smooth animations and an immersive experience.
 
+## 🖼️ Preview
+
+![HorizonX Preview](./public/preview.app.jpeg)
+
 ## 🚀 Tech Stack
 
 - **Next.js** — For server-side rendering and routing.
