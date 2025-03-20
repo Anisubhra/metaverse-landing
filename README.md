@@ -1,34 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌌 HorizonX&#x20;
 
-## Getting Started
+Welcome to **HorizonX** — a sleek, modern metaverse landing page built with **Next.js**, **Tailwind CSS**, and **Framer Motion** for smooth animations and an immersive experience.
 
-First, run the development server:
+## 🚀 Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- **Next.js** — For server-side rendering and routing.
+- **Tailwind CSS** — For fast, responsive styling.
+- **Framer Motion** — For clean, smooth animations.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Features
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- **Fully responsive** design.
+- **Smooth animations** using Framer Motion.
+- **SEO optimized** with Next.js.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 📁 Project Setup
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+1. **Clone the repo:**
 
-## Learn More
+2. **Install dependencies:**
 
-To learn more about Next.js, take a look at the following resources:
+3. **Run development server:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   Open [http://localhost:3000](http://localhost:3000) to view the page.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🎨 Design Inspiration
 
-## Deploy on Vercel
+Inspired by futuristic UI designs with a clean, immersive feel — perfect for a modern Metaverse project.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔗 Links
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Live Demo:** [https://metaverse-landing-vert.vercel.app/](https://metaverse-landing-vert.vercel.app/)
+
+## 🤝 Contributing
+
+Feel free to fork this project and submit pull requests. Suggestions and ideas are welcome!
+
+## 🛠️ Author
+
+**Anisubhra Sarkar**
+
+- [LinkedIn](https://www.linkedin.com/in/anisubhrasarkar/)
+- [GitHub](https://github.com/Anisubhra)
+- [Twitter](https://x.com/anisubhrasarkar)
+
+---
+
+⭐️ If you like this project, feel free to star the repo!
+
